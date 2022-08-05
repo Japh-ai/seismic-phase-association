@@ -2,7 +2,7 @@ CONTROL 1 54321
 TRANS SIMPLE -24.8 -72.0 0.0
 MAPLINE  GMT_LONLAT ./test_line  0.0 0.0 0.0  SOLID
 VGOUT  /content/PhaseLink/grid/test_layer
-VGTYPE P
+VGTYPE S
 VGGRID 200 200 50 0.0 0.0 -5.0  5.0 5.0 5.0  SLOW_LEN
 LAYER 0.0  6.09 0.00     3.52  0.00  3.0  0.0
 LAYER 10.0  6.09 0.00     3.52  0.00  3.0  0.0
